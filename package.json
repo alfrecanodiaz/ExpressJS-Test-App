@@ -1,0 +1,14 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "description": "Test ExpressJS Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Alfredo Cano",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
